@@ -1,6 +1,6 @@
 ---
 layout: default
-title: djhxr69
+title: Home
 ---
 
 ## Scribbles
