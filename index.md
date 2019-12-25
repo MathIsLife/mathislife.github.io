@@ -5,6 +5,9 @@ layout: default
 ## Scribbles
 
 * [Hashing](/assets/pdfs/Hashing.pdf)
+* [Trigonometry and Complex Numbers](/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf)
+* [Formal Power Series and Generating Functions](/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf)
+* [Where's the tree in Fenwick tree?](/assets/posts/Fenwick_Tree.html)
 
 ## About Me
 Hi there! My name is Jubayer Nirjhor and I'm currently pursuing computer science at University of Dhaka. 
