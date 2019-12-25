@@ -4,12 +4,12 @@ layout: default
 
 ## Scribbles
 
-* [Hashing](/assets/pdfs/Hashing.pdf)
-* [Trigonometry and Complex Numbers](/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf)
-* [Formal Power Series and Generating Functions](/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf)
-* [Where's the tree in Fenwick tree?](/assets/posts/Fenwick_Tree.html)
+* [Hashing](/assets/pdfs/Hashing.pdf){:target="_blank"}
+* [Trigonometry and Complex Numbers](/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf){:target="_blank"}
+* [Formal Power Series and Generating Functions](/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf){:target="_blank"}
+* [Where's the tree in Fenwick tree?](/assets/posts/Fenwick_Tree.html){:target="_blank"}
 
 ## About Me
 Hi there! My name is Jubayer Nirjhor and I'm currently pursuing computer science at University of Dhaka. 
 
-Random links: [Email](jr_nirjhor@yahoo.com), [Telegram](https://t.me/Alpha_Q), [IOI](http://stats.ioinformatics.org/people/5850), [Codeforces](https://codeforces.com/profile/Alpha_Q), [GitHub](https://github.com/MathIsLife), [Facebook](https://www.facebook.com/jr.nirjhor). 
+Random links: [Email](jr_nirjhor@yahoo.com){:target="_blank"}, [Telegram](https://t.me/Alpha_Q){:target="_blank"}, [IOI](http://stats.ioinformatics.org/people/5850){:target="_blank"}, [Codeforces](https://codeforces.com/profile/Alpha_Q){:target="_blank"}, [GitHub](https://github.com/MathIsLife){:target="_blank"}, [Facebook](https://www.facebook.com/jr.nirjhor){:target="_blank"}. 
