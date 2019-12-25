@@ -4,7 +4,8 @@ layout: default
 
 ## Scribbles
 
-* [Hashing](/assets/pdfs/Hashing.pdf/?target=_blank)
+* <a href="/assets/pdfs/Hashing.pdf/" target="_blank">Go</a>
+* [Hashing](/assets/pdfs/Hashing.pdf)
 * [Trigonometry and Complex Numbers](/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf){:target="_blank"}
 * [Formal Power Series and Generating Functions](/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf){:target="_blank"}
 * [Where's the tree in Fenwick tree?](/assets/posts/Fenwick_Tree.html){:target="_blank"}
