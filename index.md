@@ -9,4 +9,7 @@ layout: default
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ## About Me
-I'm Jubayer Nirjhor currently pursuing computer science at University of Dhaka.
+I'm Jubayer Nirjhor currently pursuing computer science at University of Dhaka. 
+
+* <b> Email: </b> jr_nirjhor@yahoo.com
+
