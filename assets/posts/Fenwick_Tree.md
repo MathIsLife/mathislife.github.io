@@ -63,8 +63,7 @@ Combined with all this, we get the following procedures that take up $\mathcal{O
 	  return ret;
 	}
 
-<script type='text/x-mathjax-config'>
-MathJax.Hub.Config({
+<script type='text/x-mathjax-config'> MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX", "output/HTML-CSS"],
     MMLorHTML: { prefer: "HTML" },
