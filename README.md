@@ -1,1 +1,1 @@
-Personal blog sort of thing. 
+Personal blog sort of thing. Used Jekyll-Minimal theme.
