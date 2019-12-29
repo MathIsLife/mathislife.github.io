@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Scribbles
-\(x=69\)
+$$x=69$$
 * <a href="/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf" target="_blank">Trigonometry and Complex Numbers</a>
 * <a href="/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf" target="_blank">Formal Power Series and Generating Functions</a>
 * <a href="/assets/pdfs/Hashing.pdf" target="_blank">Hashing</a>
