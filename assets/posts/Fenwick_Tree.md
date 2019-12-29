@@ -1,4 +1,7 @@
-# Where's the tree in Fenwick tree?
+---
+title: Where's the tree in Fenwick tree?
+layout: post
+---
 
 If you've ever read about Fenwick trees, you've probably wondered where the tree that they speak of was at. You've probably also wondered what on earth would motivate someone to come up with those bitwise gimmicks that magically solves a difficult problem. The answer is rooted (no pun intended) at the indices of a typical full binary search tree.
 
