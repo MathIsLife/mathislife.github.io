@@ -5,9 +5,9 @@ title: Home
 
 ## Scribbles
 
-* <a href="/assets/pdfs/Hashing.pdf" target="_blank">Hashing</a>
 * <a href="/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf" target="_blank">Trigonometry and Complex Numbers</a>
 * <a href="/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf" target="_blank">Formal Power Series and Generating Functions</a>
+* <a href="/assets/pdfs/Hashing.pdf" target="_blank">Hashing</a>
 * <a href="/assets/posts/Fenwick_Tree.html" target="_blank">Where's the tree in Fenwick tree?</a>
 
 ## About Me
