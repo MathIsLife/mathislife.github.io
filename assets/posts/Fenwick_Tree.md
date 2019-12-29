@@ -63,6 +63,11 @@ Combined with all this, we get the following procedures that take up $\mathcal{O
 	  return ret;
 	}
 
+<script src="//yihui.org/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 <script type='text/x-mathjax-config'>
 MathJax.Hub.Config({
