@@ -4,4 +4,4 @@ description: We're conditioned to invest divinity in utility.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-markdown: pandoc
+markdown: stackedit
