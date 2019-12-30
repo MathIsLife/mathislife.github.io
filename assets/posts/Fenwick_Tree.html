@@ -25,7 +25,7 @@ th, td { padding:0.3em; }
 <li>Return the sum $a_1+a_2+\cdots+a_p$. </li>
 </ul>
 <p>Let&#39;s look at a solution that&#39;s kinda similar to a typical divide and conquer approach that segment trees follow. Consider the array $$a=[11,~7,~14,~15,~1,~12,~5,~3,~6,~13,~9,~2,~4,~10,~8]$$ of size $n=15$. We'll construct a <a href="https://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">binary search tree</a> on its indices ${1,2,...,15}$.</p>
-<p> <img src="assets/img/BST.png" alt="BST"></p>
+<p> <img src="BST.png" alt="BST"></p>
 <p>We keep at each vertex the sum of values at all indices <strong>in its left subtree and itself</strong>. For instance, the red region in the image shows the relevant indices for vertex $12$. The corresponding sums for array $a$ are written within brackets. Some examples:</p>
 <ul>
 <li>Value at vertex $7$ is simply $a_7=5$.</li>
@@ -49,7 +49,7 @@ th, td { padding:0.3em; }
 </ul>
 <p>Clearly these operations take time proportional to the height of the tree. And since we&#39;ve constructed a full binary search tree, the height and thus the runtime, is $\mathcal{O}(\lg n)$. </p>
 <p>It remains to look closely at the vertex indices of a full binary search tree to further optimize this process. We naturally look at the binary representations of the indices. </p>
-<p><img src="assets/img/BinRep.png" alt="BinRep"></p>
+<p><img src="BinRep.png" alt="BinRep"></p>
 <p>Here&#39;s a cool observation (try proving it maybe): 
 
 <blockquote><em>When we move from a child $u$ to its parent, the last 1 (from left) in the binary representation of $u$ moves one step to the left (and possibly merges with another 1 if there is already one).</em></blockquote>
