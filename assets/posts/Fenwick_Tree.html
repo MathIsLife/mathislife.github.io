@@ -24,7 +24,7 @@ th, td { padding:0.3em; }
 <li>Add some number $v$ to $a_p$.</li>
 <li>Return the sum $a_1+a_2+\cdots+a_p$. </li>
 </ul>
-<p>Let&#39;s look at a solution that&#39;s kinda similar to a typical divide and conquer approach that segment trees follow. Consider the array $$a=[11,~7,~14,~15,~1,~12,~5,~3,~6,~13,~9,~2,~4,~10,~8]$$ of size $n=15$. We'll construct a <a href="https://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">binary search tree</a> on its indices ${1,2,...,15}$.</p>
+<p>Let&#39;s look at a solution that&#39;s kinda similar to a typical divide and conquer approach that segment trees follow. Consider the array $$a=[11,~7,~14,~15,~1,~12,~5,~3,~6,~13,~9,~2,~4,~10,~8]$$ of size $n=15$. We'll construct a full <a href="https://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">binary search tree</a> on its indices ${1,2,...,15}$.</p>
 <p> <img src="BST.png" alt="BST"></p>
 <p>We keep at each vertex the sum of values at all indices <strong>in its left subtree and itself</strong>. For instance, the red region in the image shows the relevant indices for vertex $12$. The corresponding sums for array $a$ are written within brackets. Some examples:</p>
 <ul>
