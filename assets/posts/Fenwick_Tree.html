@@ -44,8 +44,8 @@ th, td { padding:0.3em; }
 <p>How about adding $69$ to $a_5$? We perform a similar climb from vertex $5$ adding $69$ to the vertices that cover $a_5$. These are exactly the vertices with indices at least $5$.</p>
 <ul>
 <li>Initially we&#39;re at vertex $5$, which definitely covers $a_5$. So we add $69$ to it and climb up.</li>
-<li>Now we&#39;re at vertex $4$ which is smaller than $5$, so this vertex doesn&#39;t get affected. We do nothing and climb up.</li>
 <li>Now we&#39;re at vertex $6$ which is bigger than $5$, so it covers $a_5$. We add $69$ to it and climb up.</li>
+<li>Now we&#39;re at vertex $4$ which is smaller than $5$, so this vertex doesn&#39;t get affected. We do nothing and climb up.</li>
 <li>Finally we&#39;re at the root $8$ which is bigger than $5$, so it covers $a_5$. We add $69$ to it and finish our tour.</li>
 </ul>
 <p>Clearly these operations take time proportional to the height of the tree. And since we&#39;ve constructed a full binary search tree, the height and thus the runtime, is $\mathcal{O}(\lg n)$. </p>
