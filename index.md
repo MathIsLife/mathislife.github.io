@@ -8,7 +8,7 @@ title: Home
 * <a href="/assets/pdfs/Trigonometry_and_Complex_Numbers.pdf" target="_blank">Trigonometry and Complex Numbers</a>
 * <a href="/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf" target="_blank">Formal Power Series and Generating Functions</a>
 * <a href="/assets/pdfs/Hashing.pdf" target="_blank">Hashing</a>
-* <a href="/assets/posts/Fenwick_Tree.md" target="_blank">Where's the tree in Fenwick tree?</a>
+* <a href="/assets/posts/Fenwick_Tree.html" target="_blank">Where's the tree in Fenwick tree?</a>
 
 ## About Me
 Hi there! My name is Jubayer Nirjhor and I'm currently (miserably failing at) pursuing computer science at University of Dhaka. 
