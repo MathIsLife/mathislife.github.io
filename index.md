@@ -10,7 +10,7 @@ My current research interest lies in theoretical computer science, specifically 
 
 I enjoy solving mathematical and algorithmic puzzles from a very early age. I've had the privilege of going to IOI twice during high school (winning a medal), and to ICPC world finals thrice during undergrad. My team has also been the champion in the ICPC Asia-West continent finals.
 
-Random links: <a href="mailto:jr_nirjhor@yahoo.com" target="_blank">Email</a>, <a href="https://t.me/Alpha_Q" target="_blank">Telegram</a>, <a href="http://stats.ioinformatics.org/people/5850" target="_blank">IOI</a>, <a href="https://codeforces.com/profile/Alpha_Q" target="_blank">Codeforces</a>, <a href="https://letterboxd.com/Alpha_Q" target="_blank">Letterboxd</a>, <a href="https://github.com/MathIsLife" target="_blank">GitHub</a>, <a href="https://www.facebook.com/jr.nirjhor" target="_blank">Facebook</a>. 
+Random links: <a href="mailto:jr_nirjhor@yahoo.com" target="_blank">Email</a>, <a href="https://t.me/Alpha_Q" target="_blank">Telegram</a>, <a href="http://stats.ioinformatics.org/people/5850" target="_blank">IOI</a>, <a href="https://codeforces.com/profile/Alpha_Q" target="_blank">Codeforces</a>, <a href="https://letterboxd.com/Alpha_Q" target="_blank">Letterboxd</a>, <a href="https://github.com/MathIsLife" target="_blank">GitHub</a>, <a href="https://www.facebook.com/jr.nirjhor" target="_blank">Facebook</a>, <a href="https://drive.google.com/file/d/1bLj965LKNQnl8yXtp-RPvfEuqeIAmGyo/view?usp=sharing" target="_blank">Resume</a>. 
 
 
 ## Scribbles
