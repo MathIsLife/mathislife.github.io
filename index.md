@@ -14,7 +14,6 @@ Random links: <a href="mailto:jr_nirjhor@yahoo.com" target="_blank">Email</a>, <
 
 
 ## Scribbles
-Some articles written by me.
 * <a href="/assets/posts/Fenwick_Tree.html" target="_blank">Where's the tree in Fenwick tree?</a>
 * <a href="/assets/pdfs/Hashing.pdf" target="_blank">Hashing</a>
 * <a href="/assets/pdfs/Formal_Power_Series_and_Generating_Functions.pdf" target="_blank">Formal Power Series and Generating Functions</a>
